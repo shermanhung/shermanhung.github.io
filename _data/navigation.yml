@@ -19,8 +19,8 @@ main:
   #   url: /files/shermanhung_resume_phd.pdf
     # url: /cv/
   
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
 
   # - title: "Publications"
   #   url: /publications/
