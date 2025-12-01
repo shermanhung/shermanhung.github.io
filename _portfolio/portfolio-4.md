@@ -1,6 +1,6 @@
 ---
 title: "Band Rehersal Recordings"
-excerpt: "This folder contains video documentation of Fairy Lied’s band rehearsals. <br/>" 
+excerpt: "This folder contains video documentation of Fairy Lied’s band rehearsals. These sessions deepened my musical training by giving me firsthand exposure to the nuances of drum performance and live ensemble execution, while also familiarizing me with music production tools and professional performance equipment. <br/>" 
 collection: portfolio
 ---
 
