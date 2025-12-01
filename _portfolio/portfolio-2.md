@@ -1,5 +1,5 @@
 ---
-title: "Technical Project"
+title: "Technical Projects"
 excerpt: "This folder presents a technical project that highlights my proficiency in applying AI techniques to time-series data. Because music and audio signals are inherently temporal — capturing patterns such as rhythm, timbre evolution, and harmonic progression — these skills directly translate to problems in audio analysis, music information retrieval, and generative music modeling.<br/>" 
 collection: portfolio
 ---
