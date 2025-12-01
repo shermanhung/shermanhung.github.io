@@ -1,6 +1,6 @@
 ---
 title: "Band Songs"
-excerpt: "This folder features songs created collaboratively by Fairy Lied’s band members. It highlights my background in musical training—especially my role as a drummer—and demonstrates both my compositional contributions and my aptitude with drum-transcription and music-notation tools. <br/>" 
+excerpt: "This folder features songs created collaboratively by Fairy Lied’s band members. It highlights my background in musical training — especially my role as a drummer — and demonstrates both my compositional contributions and my aptitude with drum-transcription and music-notation tools. <br/>" 
 collection: portfolio
 ---
 
