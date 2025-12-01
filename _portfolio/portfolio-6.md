@@ -1,6 +1,6 @@
 ---
 title: "Drum Covers"
-excerpt: "This folder contains drum covers performed by me, primarily focused on progressive metal music.<br/>" 
+excerpt: "This folder contains drum covers performed by me, primarily focused on progressive metal music. These experiences strengthened my musical training by giving me practical insight into how drum sounds interact within a full mix, while also deepening my understanding of audio engineering, music production software, and video editing. <br/>" 
 collection: portfolio
 ---
 
