@@ -1,6 +1,6 @@
 ---
 title: "Audio Projects"
-excerpt: "This folder presents an audio-centric project that is thoroughly documented with explanations of their purpose, methodology, and corresponding code. The content covers key areas such as audio signal processing, feature extraction, classification, and generative audio techniques, providing a comprehensive overview of how different algorithms operate within the audio domain.<br/>" 
+excerpt: "This folder presents audio-centric projects that are thoroughly documented with explanations of their purpose, methodology, and corresponding code. The content covers key areas such as audio signal processing, feature extraction, classification, and generative audio techniques, providing a comprehensive overview of how different algorithms operate within the audio domain.<br/>" 
 collection: portfolio
 ---
 ## Project Goal
