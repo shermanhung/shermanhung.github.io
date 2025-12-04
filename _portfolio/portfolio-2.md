@@ -21,7 +21,7 @@ Through this project, I gained extensive hands-on experience in time-series data
   src="https://github.com/user-attachments/assets/bfea1b33-ccab-481e-9967-0d0c8d3057d1" 
 />
 
-The data used in this project consists of well-logging curves. Figure 1 illustrates this type of data, which can be viewed as a form of time-series   signal where the time axis is replaced by depth (y-axis), and geophysical measurements are recorded at regular spatial intervals (blue curve along the x-axis). Conceptually, these signals are similar to audio waveforms used in music information retrieval, allowing many of the same signal-processing and pattern-analysis techniques to be applied.
+The data used in this project consists of well-logging curves. Figure 1 illustrates this type of data, which can be viewed as a form of time-series   signal where the time axis is replaced by depth (y-axis), and geophysical measurements are recorded at regular spatial intervals of 0.125 meters (blue curve along the x-axis). Conceptually, these signals are similar to audio waveforms used in music information retrieval, allowing many of the same signal-processing and pattern-analysis techniques to be applied.
 
 Given a sequence of geophysical measurements collected at different depths within a well, the goal is to segment the well into distinct geological strata, each defined by a top and bottom boundary (shown as red layer boundaries in Figure 1). This project aims to automate this process using an AI-based solution, reducing the need for manual interpretation by geological experts.
 
